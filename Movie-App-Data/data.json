@@ -1,0 +1,6 @@
+{
+  "version": "1.0.2",
+  "latestDownloadLink": "https://wf-artifacts.eascdn.net/builds/internal-st/aaa6267a-c267-403d-9978-d5047615d3e6/613dcdcf-e5a1-4d9a-b22a-76c4f4ea356e/0199aa9b-a465-7530-921a-035126074c38/application-613dcdcf-e5a1-4d9a-b22a-76c4f4ea356e.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=75d871a1a44e598975dd84fa2341c9b0%2F20251006%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251006T174539Z&X-Amz-Expires=900&X-Amz-Signature=3c33e53ddc99d1a9710fef33fbec81f6eaf7b08daf7ef0baf96ae8a16f678676&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+  "developer": "Cyber Kavi",
+  "updateMessage": "Fixed some bugs and upgrade UI."
+}
